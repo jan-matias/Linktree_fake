@@ -1,0 +1,62 @@
+
+body{
+    background-color: burlywood;
+}
+
+#link{
+    background-color: aqua;
+    margin-top: 50px;
+    margin-bottom: 50px; /*distacia section de baixo*/
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: auto; /*distancia do texto para margem*/
+    font-family: Times New Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#redesocial{ margin-left: 450px; }
+button{margin: 10px; }
+
+/*comeca os codigo dos botoes*/  
+  /* Comporta os botões na página */
+  .botoes {
+    position:relative;
+    display:inline-block;
+    margin:0 auto;
+    padding:0px;
+  }
+  
+  /* Definições */
+  
+  .botao {
+    position:relative;
+    display:block;
+    /*background:#fff;*/
+    padding: 0px;
+    float:left;
+    line-height:0px;
+    width: 60px;
+    height:60px;
+    border: 0;
+    border-radius: 50px;
+    cursor:pointer;
+    outline:none;
+  }
+  
+  /* Efeitos */
+
+  .whats {
+    color: #e45;
+    /*background: #fff;*/
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
+  }
+  .botao:hover {
+    -webkit-transform:rotate(360deg); 
+    -moz-transform:rotate(360deg); 
+    -o-transform:rotate(360deg);
+    transform:rotate(360deg);
+  }  
+
+/*fnal os codigo dos botoes*/
