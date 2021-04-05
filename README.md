@@ -16,3 +16,5 @@ Ah, sobre os icons de redes sociais. Você pode consultar todos as disposibilida
 ## Créditos
 - [Boostrap 5](https://getbootstrap.com/)
 - [Lorem Ipsum](https://www.lipsum.com/)
+
+## Para conhecer o projeto ja pronto segue endereço: https://sandiore.github.io/Linktree_fake/
