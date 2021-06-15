@@ -11,7 +11,6 @@ Feito inteiramente em
 ![bootstrap5](https://github.com/jan-matias/Linktree_fake/blob/main/assests/bootstrap_plain_wordmark_logo_icon_146620.png)
 ![Html5](https://github.com/jan-matias/Linktree_fake/blob/main/assests/file_type_html_icon_130541.png)
 ![CSS3](https://github.com/jan-matias/Linktree_fake/blob/main/assests/4202020css3htmllogosocialsocialmedia-115668_115633.png)
-![UX/UI designer](https://github.com/jan-matias/Linktree_fake/blob/main/assests/avatar-6.jpg)
 
 ## Sobre o HubLink
 Este projeto foi desenvolvido pois precisava criar um hub de links a ser utilizado em minhas redes sociais, mas que que eu não precisa-se pagar e também para que eu tivesse maior controle sobre os elementos que deveriam aparecer.
