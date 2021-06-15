@@ -22,10 +22,10 @@ Deixei comentários onde eu recomendo a mudança possíveis (para quem não ente
 Ah, sobre os icons de redes sociais. Você pode consultar todos as disposibilidades utilizando a própria biblioteca do Bootstrap [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)
 
 ## Créditos
-![Boostrap 5](https://getbootstrap.com/)
-![Lorem Ipsum](https://www.lipsum.com/)
+- [Boostrap 5](https://getbootstrap.com/)
+- [Lorem Ipsum](https://www.lipsum.com/)
 
 
-![Para conhecer o projeto ja pronto segue endereço](https://jan-matias.github.io/Linktree_fake/)
+- [Para conhecer o projeto ja pronto segue endereço](https://jan-matias.github.io/Linktree_fake/)
 
 ![linktree_fake](https://github.com/jan-matias/Linktree_fake/blob/main/assests/link.JPG)
