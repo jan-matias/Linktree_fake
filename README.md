@@ -5,7 +5,8 @@ Facebook; <br>
 Baixar o arquivo de currículo, entre outros links. <br>
 Eu precisava de algo onde eu poderia direcionar o usuário para a tal função e surgiu a ideia de criar algo parecido <br>
 Tenha seu próprio hub de links (página).  <br>
-No melhor estilo Linketree. Feito inteiramente em 
+No melhor estilo Linketree. <br>
+Feito inteiramente em 
 
 ![bootstrap5](https://github.com/jan-matias/Linktree_fake/blob/main/assests/bootstrap_plain_wordmark_logo_icon_146620.png)
 
